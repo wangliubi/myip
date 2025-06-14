@@ -1,0 +1,47 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+154.12.176.201,587,true,HKG,Asia Pacific,Hong Kong,35 ms,92538 kB/s
+154.17.230.67,33995,true,LAX,North America,Los Angeles,169 ms,17067 kB/s
+154.17.2.22,23232,true,LAX,North America,Los Angeles,181 ms,16922 kB/s
+154.26.177.85,11704,true,LAX,North America,Los Angeles,168 ms,14913 kB/s
+154.26.181.30,45956,true,LAX,North America,Los Angeles,164 ms,11019 kB/s
+154.21.90.72,36532,true,LAX,North America,Los Angeles,167 ms,10828 kB/s
+154.21.90.72,28753,true,LAX,North America,Los Angeles,166 ms,9904 kB/s
+154.17.232.120,24417,true,LAX,North America,Los Angeles,168 ms,342 kB/s
+154.17.237.56,26749,true,LAX,North America,Los Angeles,182 ms,8 kB/s
+211.75.189.101,995,true,TPE,Asia Pacific,Taipei,53 ms,22629 kB/s
+36.234.85.58,22222,true,HKG,Asia Pacific,Hong Kong,50 ms,22220 kB/s
+220.128.110.108,995,true,TPE,Asia Pacific,Taipei,49 ms,20165 kB/s
+1.162.156.120,36102,true,TPE,Asia Pacific,Taipei,52 ms,19704 kB/s
+125.227.219.99,443,true,HKG,Asia Pacific,Hong Kong,59 ms,12838 kB/s
+125.227.219.101,443,true,KHH,Asia Pacific,Kaohsiung City,49 ms,10975 kB/s
+36.227.88.29,10259,true,TPE,Asia Pacific,Taipei,52 ms,10125 kB/s
+114.34.202.224,10004,true,TPE,Asia Pacific,Taipei,47 ms,9058 kB/s
+1.171.155.130,12500,true,TPE,Asia Pacific,Taipei,55 ms,5643 kB/s
+220.132.74.31,11954,true,KHH,Asia Pacific,Kaohsiung City,62 ms,5025 kB/s
+59.125.113.246,39593,true,TPE,Asia Pacific,Taipei,54 ms,4413 kB/s
+220.142.4.207,30061,true,TPE,Asia Pacific,Taipei,60 ms,3666 kB/s
+1.168.173.134,21174,true,KHH,Asia Pacific,Kaohsiung City,62 ms,3601 kB/s
+54.250.76.219,8443,true,NRT,Asia Pacific,Tokyo,71 ms,40550 kB/s
+43.207.160.61,10003,true,NRT,Asia Pacific,Tokyo,71 ms,39590 kB/s
+57.180.172.178,30000,true,NRT,Asia Pacific,Tokyo,70 ms,35214 kB/s
+57.180.137.238,54889,true,NRT,Asia Pacific,Tokyo,71 ms,34482 kB/s
+54.150.218.110,27745,true,NRT,Asia Pacific,Tokyo,72 ms,27527 kB/s
+93.179.100.135,22144,true,LAX,North America,Los Angeles,173 ms,10465 kB/s
+104.225.232.247,22982,true,LAX,North America,Los Angeles,170 ms,10180 kB/s
+172.93.46.53,18574,true,LAX,North America,Los Angeles,167 ms,9993 kB/s
+95.169.27.62,21126,true,LAX,North America,Los Angeles,168 ms,9794 kB/s
+66.112.212.21,818,true,LAX,North America,Los Angeles,172 ms,9092 kB/s
+46.3.106.21,44973,true,HKG,Asia Pacific,Hong Kong,33 ms,22305 kB/s
+156.251.176.85,22270,true,HKG,Asia Pacific,Hong Kong,73 ms,22255 kB/s
+156.251.176.216,36632,true,HKG,Asia Pacific,Hong Kong,43 ms,15400 kB/s
+156.251.176.83,20207,true,HKG,Asia Pacific,Hong Kong,34 ms,12950 kB/s
+93.179.100.135,22144,true,LAX,North America,Los Angeles,171 ms,10349 kB/s
+199.19.104.251,14927,true,LAX,North America,Los Angeles,170 ms,10219 kB/s
+104.225.232.247,22982,true,LAX,North America,Los Angeles,174 ms,9954 kB/s
+95.169.27.62,21126,true,LAX,North America,Los Angeles,171 ms,9912 kB/s
+172.93.46.53,18574,true,LAX,North America,Los Angeles,168 ms,9884 kB/s
+185.183.84.60,16569,true,LAX,North America,Los Angeles,168 ms,9248 kB/s
+66.112.212.21,818,true,LAX,North America,Los Angeles,170 ms,8339 kB/s
+46.232.60.14,31180,true,SIN,Asia Pacific,Singapore,35 ms,6964 kB/s
+202.91.35.242,36464,true,LAX,North America,Los Angeles,166 ms,2854 kB/s
+156.251.172.185,587,true,HKG,Asia Pacific,Hong Kong,36 ms,1901 kB/s
